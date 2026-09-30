@@ -15,6 +15,8 @@ struct Card {
     string name;
     int value;
 //practice change
+
+    //rename push practice
 };
 
 // DECK
