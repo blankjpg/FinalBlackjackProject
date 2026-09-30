@@ -14,6 +14,7 @@ using namespace std;
 struct Card {
     string name;
     int value;
+//practice change
 };
 
 // DECK
