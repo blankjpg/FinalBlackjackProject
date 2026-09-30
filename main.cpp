@@ -15,6 +15,7 @@ struct Card {
     string name;
     int value;
 //practice change
+    //commit 2
 };
 
 // DECK
