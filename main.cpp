@@ -15,6 +15,8 @@ struct Card {
     string name;
     int value;
 //practice change
+
+    //rename push practice
 };
 
 // DECK
@@ -32,6 +34,7 @@ void createDeck() {
     }
 
     random_shuffle(deck.begin(), deck.end());
+    //rename branch practice commit again
 }
 
 Card drawCard() {
